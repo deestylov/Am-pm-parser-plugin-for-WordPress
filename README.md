@@ -1,4 +1,4 @@
-# am-pm-parser
+# Am-Pm product-parser
 Parser for WooCommerce from my-am.pm
 
 
